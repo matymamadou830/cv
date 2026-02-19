@@ -57,7 +57,7 @@ with col1:
     
     st.subheader("📍 Contact")
     st.write("📧 Matymamadou830@gmail.com")
-    st.write("📞 772067109")
+
     st.write("🏠 Dakar, Sénégal")
     
     st.markdown('<div class="salmon-line"></div>', unsafe_allow_html=True)
