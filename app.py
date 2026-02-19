@@ -76,8 +76,8 @@ with col2:
     # Section Formation
     st.subheader("🎓 Formation")
     st.write("*2024 - Présent* : Licence 2 en Géomatique - CEDT G15")
-    st.write("*Baccalauréat* : Obtenu au Lycée de [Nom de ton lycée]")
-    st.write("*BFEM* : Obtenu au Collège de [Nom de ton collège]")
+    st.write("*Baccalauréat* : Obtenu au Lycée de [Academia Limamoulaye]")
+    st.write("*BFEM* : Obtenu au Collège de [Academia Limamoulaye]")
     
     st.markdown('<div class="salmon-line"></div>', unsafe_allow_html=True)
 
